@@ -1,3 +1,4 @@
 # superlib
 COMMIT du lib
-2�me commit du Lib
+2ème commit du Lib
+3ème modification du README dans le repo superlib 
